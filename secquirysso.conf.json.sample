@@ -1,0 +1,10 @@
+{
+  "cogged.host":"http://localhost",
+  "cogged.port":"8090",
+  "cogged.user":"",
+  "cogged.pass":"",
+  "clientid":"xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "clientsecret":"xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "idpurl":"https://cognito-idp.ap-southeast-2.amazonaws.com/xxxxxxxxxxxxxxxxxxxxx",
+  "redirecturl":"http://localhost:8091/sso/callback"
+}
